@@ -113,3 +113,48 @@ a.desc:after {
 .nav > li > form > button.logout:focus {
     outline: none;
 }
+.youtubeForm1{
+    font-size:0;
+}
+.youtubeInp{
+    display:inline-block;
+    vertical-align:top;
+    width: 80%;
+    padding-right:15px;
+}
+.youtubeSubm{
+    display:inline-block;
+    vertical-align:top;
+    width: 20%;
+}
+.videos1__list{
+    margin-top:20px;
+}
+.videos1__item{
+    display:inline-block;
+    vertical-align:top;
+    width:200px;
+    padding:10px;
+}
+
+.youtubeForm2{
+    font-size:0;
+    margin-top:100px;
+}
+.videos2__list{
+    margin-top:20px;
+}
+.videos2__item{
+    display:inline-block;
+    vertical-align:top;
+    width:200px;
+    padding:10px;
+}
+#myModal .modal-body{
+    text-align:center !important;
+}
+.youtube_nf{
+    margin-top:15px;
+    padding-left:15px;
+    display: block;
+}
