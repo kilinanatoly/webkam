@@ -61,6 +61,7 @@ class MyController extends Controller
      */
     public function actionIndex()
     {
+        $this->layout = 'custom1';
         $youtube = new Madcoda\Youtube(array('key' => 'AIzaSyCJDDnFyY_4DZKXUXKtYbvjmGlB0w_q6uo'));
         $videos1 = NULL;
         $videos2 = NULL;

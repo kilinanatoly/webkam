@@ -136,7 +136,13 @@ a.desc:after {
     width:200px;
     padding:10px;
 }
-
+.videos1__item_date{
+    font-size:12px;
+}
+.videos1__item_img{
+    text-align: center;
+    margin-bottom:5px;
+}
 .youtubeForm2{
     font-size:0;
     margin-top:100px;
@@ -148,7 +154,17 @@ a.desc:after {
     display:inline-block;
     vertical-align:top;
     width:200px;
-    padding:10px;
+    padding:15px;
+}
+.videos2__item_name{
+    text-align: justify;
+}
+.videos2__item_img{
+    text-align: center;
+    margin-bottom:5px;
+}
+.videos2__item_date{
+    font-size:12px;
 }
 #myModal .modal-body{
     text-align:center !important;
@@ -157,4 +173,11 @@ a.desc:after {
     margin-top:15px;
     padding-left:15px;
     display: block;
+}
+.tz-wrap{
+    background-color:white;
+    padding-top:30px;
+}
+.videos2__item_athor{
+    font-size:12px;
 }
